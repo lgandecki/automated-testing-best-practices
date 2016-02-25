@@ -1,4 +1,3 @@
-
 # Automated Testing Best Practices by [Xolv.io](http://xolv.io)
 ![Travis Build](https://travis-ci.org/lgandecki/automated-testing-best-practices.svg?branch=testWithMultidriver)
 
