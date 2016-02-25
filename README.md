@@ -1,4 +1,5 @@
 # Automated Testing Best Practices by [Xolv.io](http://xolv.io)
+
 ![Circle Build](https://circleci.com/gh/xolvio/automated-testing-best-practices.svg?style=shield&circle-token=:circle-token)
 ![Travis Build](https://travis-ci.org/xolvio/automated-testing-best-practices.svg?branch=master)
 
