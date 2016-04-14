@@ -50,6 +50,7 @@ dependencies:
 
 test:
   pre:
+    - echo "test"
     - mkdir -p $CIRCLE_TEST_REPORTS/cucumber
 
   override:
